@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+i like java and frameworks: spring & angular
